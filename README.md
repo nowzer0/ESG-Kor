@@ -30,4 +30,4 @@ ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) o
 Will be released soon
 
 ## License
-This project is licensed under the AFL v3.0 License - see the [LICENSE](https://github.com/Jaey00/ESG-Kor/blob/main/LICENSE) file for details.
+This project is licensed under the AFL v3.0 License - see the [LICENSE](https://github.com/nowzer0/ESG-Kor/blob/main/LICENSE) file for details.
