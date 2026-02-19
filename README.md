@@ -27,6 +27,7 @@ ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) o
 |Total|25,075|9,324|23,598|27,741|13,609|18,886|713|118,946|
 
 ## Citation
+```bibtex
 @inproceedings{lee2024esg,
   title={ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases},
   author={Lee, Jaeyoung and Son, Geonyeong and Kim, Misuk},
