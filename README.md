@@ -34,7 +34,8 @@ ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) o
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
   pages={6627--6643},
   year={2024}
-} ```
+}
+```
 
 ## License
 This project is licensed under the AFL v3.0 License - see the [LICENSE](https://github.com/nowzer0/ESG-Kor/blob/main/LICENSE) file for details.
