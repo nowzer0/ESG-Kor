@@ -27,7 +27,13 @@ ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) o
 |Total|25,075|9,324|23,598|27,741|13,609|18,886|713|118,946|
 
 ## Citation
-Will be released soon
+@inproceedings{lee2024esg,
+  title={ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases},
+  author={Lee, Jaeyoung and Son, Geonyeong and Kim, Misuk},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  pages={6627--6643},
+  year={2024}
+}
 
 ## License
 This project is licensed under the AFL v3.0 License - see the [LICENSE](https://github.com/nowzer0/ESG-Kor/blob/main/LICENSE) file for details.
