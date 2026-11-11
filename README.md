@@ -8,7 +8,7 @@ ESG-Kor is constructed using a Korean company's sustainability reports from the 
 Various pre-trained language models based on the Korean language were fine-tuned using the ESG-Kor dataset, and the models demonstrated effective performance in performing the given tasks. This suggests that applying the ESG-Kor dataset to existing PLMs allows for proper extraction and classification of relevant information in the field of ESG of Korea, a specialized domain in a particular country. The process of constructing the ESG-Kordataset could serve as a benchmark for constructing ESG datasets in various countries.
 
 
-ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) of Hanyang University in Republic of Korea. More information about ESG-Kor can be found in [ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases]().
+ESG-Kor was created by [IDSL](https://sites.google.com/dm.snu.ac.kr/idsl/home) of Hanyang University in Republic of Korea. More information about ESG-Kor can be found in [ESG-Kor: A Korean Dataset for ESG-related Information Extraction and Practical Use Cases](https://aclanthology.org/2024.findings-emnlp.387.pdf).
 
 
 
